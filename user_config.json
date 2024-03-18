@@ -1,0 +1,11 @@
+{
+    "extra_cmdline": {
+        "vid": "0xFFFF",
+        "pid": "0x5678",
+        "sn": "2050Q8N990501",
+        "mac1": "0011321C2A50",
+        "SataPortMap": "222",
+        "DiskIdxMap": "000204",
+        "SasIdxMap": "0"
+    }
+}
